@@ -8,8 +8,7 @@
 ---
 
 ### 🚧 Projetos em andamento
-- [Nome do projeto](#) – Descrição curta aqui
-- [Outro projeto](#) – Outra descrição
+- [BG-BJ TECH](#) – Sistema de gestão bares e restaurantes
 
 ---
 

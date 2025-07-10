@@ -61,10 +61,12 @@
 ### 🔗 Contatos
 
 <div align="left">
+ <a href="https://www.instagram.com/buja.mp4/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" (https://www.linkedin.com/in/victor-azambuja-980199370/) />
+</a>
+ <a href="https://www.linkedin.com/in/victor-azambuja-980199370/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meu-perfil)  
-[![Portfólio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio.com)

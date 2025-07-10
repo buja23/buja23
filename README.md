@@ -17,8 +17,9 @@
 > *Nota: Não domino tudo, mas estou sempre estudando pra melhorar 💪*
 
 **Linguagens & Banco de Dados:**
-![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
+
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="css3 logo"  />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -26,7 +27,7 @@
 
 **Estudando agora:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 
 **Já tive contato:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)

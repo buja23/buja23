@@ -26,12 +26,12 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 
 **Estudando agora:**
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 
 **Já tive contato:**
@@ -67,6 +67,8 @@
  <a href="https://www.linkedin.com/in/victor-azambuja-980199370/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+  <a href="https://buja23.github.io/buja.github.portifolio">
+   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+  </a>
 </div>
 

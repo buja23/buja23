@@ -9,7 +9,6 @@
 
 ### 🚧 Projetos em andamento
 - [BG-BJ TECH](#) – Sistema de gestão bares e restaurantes
-- [ChamadaDigital] - Sistema de chamada que visa agilidade em chamadas grandes
 
 ---
 

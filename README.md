@@ -5,12 +5,6 @@
 🎯 Buscando evoluir como dev, explorando frontend, backend, banco de dados e muito mais  
 📚 Sempre aprendendo e colocando em prática
 
----
-
-### 🚧 Projetos em andamento
-- [BG-BJ TECH](#) – Sistema de gestão bares e restaurantes
-
----
 
 ### 🧠 Tecnologias que uso  
 

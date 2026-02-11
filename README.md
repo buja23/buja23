@@ -31,9 +31,10 @@ Desenvolvedor focado na construção de ecossistemas escaláveis e sistemas de g
 ### 📊 Performance & Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS,HTML" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Victor" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS,HTML" alt="Linguagens mais usadas" />
+</div>>
 
 ---
 

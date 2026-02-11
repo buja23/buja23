@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor Azambuja!
+👋 Olá, eu sou o Victor Azambuja!
 
 ### **Estudante de Análise e Desenvolvimento de Sistemas (FATEC)**
 🚀 Buscando minha primeira oportunidade formal como Estagiário ou Desenvolvedor Júnior.
@@ -20,8 +20,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, Tenho foca
 **Linguagens & Frameworks que mais utilizo:**
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Bancos de Dados & Ferramentas:**
-- MySQL, PostgreSQL, firebase, MongoDB e Supabase.
+**Bancos de Dados & Cloud:**
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Ferramentas:**
 - Git/GitHub para versionamento e Figma para prototipagem.
 
 ---

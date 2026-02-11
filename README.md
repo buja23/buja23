@@ -44,4 +44,5 @@ Desenvolvedor focado na construção de ecossistemas escaláveis e sistemas de g
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white)](https://buja23.github.io/buja.github.portifolio)
 
 ---
-*Atualmente graduando em Análise e Desenvolvimento de Sistemas pela FATEC (2026).*
+
+

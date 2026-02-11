@@ -30,10 +30,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, Tenho foca
 
 ### 📊 Meu Desempenho no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS,HTML" />
-</div>
+![Buja's GitHub stats](https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS)
 
 ---
 
@@ -41,7 +40,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, Tenho foca
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-azambuja-980199370/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buja.mp4/)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.azam10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white)](https://buja23.github.io/buja.github.portifolio)
 
 ---
 *📍 Presidente Prudente - SP | Previsão de Formatura: 2026*

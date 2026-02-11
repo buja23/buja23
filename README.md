@@ -1,67 +1,47 @@
+# 👋 Olá, sou Victor Azambuja
 
-### 👋 Sobre mim
+### **Software Engineer | Full Stack Specialist (PHP & JavaScript)**
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**  
-🎯 Buscando evoluir como dev, explorando frontend, backend, banco de dados e muito mais  
-📚 Sempre aprendendo e colocando em prática
-
-
-### 🧠 Tecnologias que uso  
-
-> *Nota: Não domino tudo, mas estou sempre estudando pra melhorar 💪*
-
-
-**Linguagens & Banco de Dados:**
-
-- ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-
-**Estudando agora:**
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-**Já tive contato:**
-
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-- ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-
-**Frameworks e Ferramentas:**
-
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-- ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+Desenvolvedor focado na construção de ecossistemas escaláveis e sistemas de gestão de alta performance. Com sólida experiência no desenvolvimento de aplicações reais — desde e-commerces de alto padrão até soluções de logística e automação — minha abordagem une a robustez do **Laravel** à agilidade do **React/React Native**.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Experiência em Destaque
 
-![Buja's GitHub stats](https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS)
+* **E-commerce Madame (High-End Retail):** Arquitetura frontend com React.js e backend serverless com Supabase. Implementação de fluxos complexos de pagamento (Mercado Pago) e UX focada em conversão.
+* **Gestão para Barbearias (SaaS):** Desenvolvimento de plataforma completa (Web + Mobile) com controle de agendamentos, painéis administrativos via Filament PHP e aplicativo nativo para o cliente final.
+* **Chamada Digital (Impacto Social):** Digitalização de processos manuais para o Instituto Sonhe, utilizando Node.js e Firebase para sincronização em tempo real.
 
 ---
 
-### 🔗 Contatos
+### 🛠️ Tech Stack & Expertise
 
-<div align="left">
- <a href="https://www.instagram.com/buja.mp4/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>
- <a href="https://www.linkedin.com/in/victor-azambuja-980199370/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-  <a href="https://buja23.github.io/buja.github.portifolio">
-   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
-  </a>
+**Core Backend & Infrastructure:**
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Supabase & Firebase.
+
+**Frontend & Mobile:**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Ferramentas de Design & Gestão:**
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+---
+
+### 📊 Performance & Insights
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buja23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buja23&layout=compact&theme=radical&hide=CSS,HTML" />
 </div>
 
+---
+
+### 🔗 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-azambuja-980199370/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buja.mp4/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white)](https://buja23.github.io/buja.github.portifolio)
+
+---
+*Atualmente graduando em Análise e Desenvolvimento de Sistemas pela FATEC (2026).*

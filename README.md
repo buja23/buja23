@@ -9,7 +9,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**, Tenho foca
 
 ### 🛠️ Projetos Destaque:
 
-* **E-commerce Madame (High-End Retail):** Arquitetura frontend com React.js e backend serverless com Supabase. Implementação de fluxos complexos de pagamento (Mercado Pago) e UX focada em conversão.
 * **Gestão para Barbearias (SaaS):** Desenvolvimento de plataforma completa (Web + Mobile) com controle de agendamentos, painéis administrativos via Filament PHP e aplicativo nativo para o cliente final.
 * **Chamada Digital (Impacto Social):** Digitalização de processos manuais para o Instituto Sonhe, utilizando Node.js e Firebase para sincronização em tempo real.
 
